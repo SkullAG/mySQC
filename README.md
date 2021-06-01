@@ -1,1 +1,3 @@
-# mySQC
+# SlimeQuestCorruption
+el proyecto final
+
